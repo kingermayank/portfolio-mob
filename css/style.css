@@ -48,14 +48,14 @@ nav {
 nav a {
   float: left;
   color: #f2f2f2;
-  text-align: center;
+  text-align: centser;
   padding: 18px 14px;
   text-decoration: none;
   font-size: 13px;
 }
 
 nav a:hover {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(19, 19, 19);
   color: rgb(255, 255, 255);
 }
 
