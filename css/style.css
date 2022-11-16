@@ -115,6 +115,12 @@ footer h1 {
     background-color: rgb(39, 39, 39);
     color:rgb(255, 255, 255);
 }
+.background {
+background-color: white;
+color: black;
+width: 65%;
+    margin: auto;
+}
 
 .animated { 
   border: none;
